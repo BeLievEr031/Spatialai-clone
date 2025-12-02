@@ -40,7 +40,7 @@ function App() {
           </div>
           <div className="flex justify-between items-center py-5 px-4">
             <p>© 2025 Spatial AI</p>
-            <p>info@spatial-ai.com</p>
+            <p>info@spatial-ai.network</p>
           </div>
         </div>
       </div>
